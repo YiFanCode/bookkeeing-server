@@ -1,0 +1,924 @@
+2021-09-16 09:54:51,155 INFO 73485 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66908847ms at 2021-09-17 04:30:00.002
+2021-09-16 09:54:51,155 INFO 73485 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50708845ms at 2021-09-17 00:00:00.000
+2021-09-16 09:54:51,155 INFO 73485 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50709845ms at 2021-09-17 00:00:01.000
+2021-09-16 09:54:51,068 INFO 73488 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 09:54:51,068 INFO 73488 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 09:54:51,068 INFO 73488 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 09:57:42,394 INFO 73542 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 09:57:42,394 INFO 73542 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 09:57:42,394 INFO 73542 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 09:58:11,209 INFO 73570 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66708793ms at 2021-09-17 04:30:00.002
+2021-09-16 09:58:11,209 INFO 73570 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50508791ms at 2021-09-17 00:00:00.000
+2021-09-16 09:58:11,210 INFO 73570 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50509791ms at 2021-09-17 00:00:01.001
+2021-09-16 09:58:11,137 INFO 73571 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 09:58:11,137 INFO 73571 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 09:58:11,137 INFO 73571 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 09:59:30,140 INFO 73594 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 09:59:30,140 INFO 73594 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 09:59:30,140 INFO 73594 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 09:59:32,172 INFO 73605 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 09:59:32,172 INFO 73605 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 09:59:32,172 INFO 73605 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:16:58,237 INFO 73662 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:16:58,237 INFO 73662 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:16:58,237 INFO 73662 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:17:19,687 INFO 73680 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:17:19,687 INFO 73680 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:17:19,687 INFO 73680 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:18:08,362 INFO 73692 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:18:08,362 INFO 73692 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:18:08,362 INFO 73692 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:18:15,767 INFO 73706 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:18:15,767 INFO 73706 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:18:15,767 INFO 73706 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:22:42,023 INFO 73725 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:22:42,023 INFO 73725 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:22:42,023 INFO 73725 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:22:58,989 INFO 73739 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:22:58,989 INFO 73739 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:22:58,989 INFO 73739 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:24:40,639 INFO 73760 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:24:40,639 INFO 73760 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:24:40,639 INFO 73760 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:24:53,084 INFO 73774 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:24:53,084 INFO 73774 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:24:53,084 INFO 73774 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:25:07,068 INFO 73804 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 65092935ms at 2021-09-17 04:30:00.003
+2021-09-16 10:25:07,068 INFO 73804 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48892932ms at 2021-09-17 00:00:00.000
+2021-09-16 10:25:07,068 INFO 73804 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48893932ms at 2021-09-17 00:00:01.000
+2021-09-16 10:25:06,976 INFO 73807 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:25:06,976 INFO 73807 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:25:06,976 INFO 73807 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:26:23,223 INFO 73845 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:26:23,223 INFO 73845 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:26:23,223 INFO 73845 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:26:48,370 INFO 73883 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64991633ms at 2021-09-17 04:30:00.003
+2021-09-16 10:26:48,370 INFO 73883 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48791630ms at 2021-09-17 00:00:00.000
+2021-09-16 10:26:48,370 INFO 73883 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48792630ms at 2021-09-17 00:00:01.000
+2021-09-16 10:26:48,278 INFO 73884 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:26:48,278 INFO 73884 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:26:48,278 INFO 73884 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:27:48,404 INFO 73901 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:27:48,404 INFO 73901 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:27:48,404 INFO 73901 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:27:54,750 INFO 73926 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64925252ms at 2021-09-17 04:30:00.002
+2021-09-16 10:27:54,750 INFO 73926 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48725250ms at 2021-09-17 00:00:00.000
+2021-09-16 10:27:54,751 INFO 73926 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48726250ms at 2021-09-17 00:00:01.001
+2021-09-16 10:27:54,658 INFO 73931 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:27:54,658 INFO 73931 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:27:54,658 INFO 73931 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:28:21,564 INFO 73951 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:28:21,564 INFO 73951 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:28:21,564 INFO 73951 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:28:34,795 INFO 73964 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:28:34,795 INFO 73964 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:28:34,795 INFO 73964 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:37:10,654 INFO 74115 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64369348ms at 2021-09-17 04:30:00.002
+2021-09-16 10:37:10,654 INFO 74115 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48169346ms at 2021-09-17 00:00:00.000
+2021-09-16 10:37:10,655 INFO 74115 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48170345ms at 2021-09-17 00:00:01.000
+2021-09-16 10:37:10,560 INFO 74121 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:37:10,560 INFO 74121 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:37:10,560 INFO 74121 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:37:39,954 INFO 74135 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:37:39,954 INFO 74135 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:37:39,954 INFO 74135 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 10:37:59,750 INFO 74149 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 10:37:59,750 INFO 74149 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 10:37:59,750 INFO 74149 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:26:29,052 INFO 74728 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61410951ms at 2021-09-17 04:30:00.003
+2021-09-16 11:26:29,052 INFO 74728 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45210948ms at 2021-09-17 00:00:00.000
+2021-09-16 11:26:29,052 INFO 74728 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45211948ms at 2021-09-17 00:00:01.000
+2021-09-16 11:26:28,920 INFO 74731 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:26:28,920 INFO 74731 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:26:28,920 INFO 74731 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:28:23,666 INFO 74775 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:28:23,666 INFO 74775 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:28:23,666 INFO 74775 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:28:24,397 INFO 74777 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:28:24,397 INFO 74777 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:28:24,397 INFO 74777 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:28:35,998 INFO 74806 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61284005ms at 2021-09-17 04:30:00.003
+2021-09-16 11:28:35,998 INFO 74806 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45084002ms at 2021-09-17 00:00:00.000
+2021-09-16 11:28:35,998 INFO 74806 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45085002ms at 2021-09-17 00:00:01.000
+2021-09-16 11:28:35,904 INFO 74807 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:28:35,904 INFO 74807 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:28:35,904 INFO 74807 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:31:30,532 INFO 74862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:31:30,532 INFO 74862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:31:30,532 INFO 74862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:31:39,851 INFO 74894 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61100152ms at 2021-09-17 04:30:00.003
+2021-09-16 11:31:39,851 INFO 74894 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44900149ms at 2021-09-17 00:00:00.000
+2021-09-16 11:31:39,852 INFO 74894 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44901149ms at 2021-09-17 00:00:01.001
+2021-09-16 11:31:39,716 INFO 74895 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:31:39,716 INFO 74895 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:31:39,716 INFO 74895 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:34:37,781 INFO 74929 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:34:37,781 INFO 74929 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:34:37,781 INFO 74929 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 11:34:48,163 INFO 74961 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 11:34:48,163 INFO 74961 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 11:34:48,163 INFO 74961 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:02:29,393 INFO 75176 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59250609ms at 2021-09-17 04:30:00.002
+2021-09-16 12:02:29,393 INFO 75176 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43050607ms at 2021-09-17 00:00:00.000
+2021-09-16 12:02:29,393 INFO 75176 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43051607ms at 2021-09-17 00:00:01.000
+2021-09-16 12:02:29,255 INFO 75177 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:02:29,255 INFO 75177 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:02:29,255 INFO 75177 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:03:33,716 INFO 75207 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:03:33,716 INFO 75207 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:03:33,716 INFO 75207 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:03:57,533 INFO 75231 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:03:57,533 INFO 75231 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:03:57,533 INFO 75231 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:04:00,429 INFO 75237 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:04:00,429 INFO 75237 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:04:00,429 INFO 75237 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:04:13,997 INFO 75258 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:04:13,997 INFO 75258 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:04:13,997 INFO 75258 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:04:29,498 INFO 75288 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59130504ms at 2021-09-17 04:30:00.002
+2021-09-16 12:04:29,498 INFO 75288 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42930502ms at 2021-09-17 00:00:00.000
+2021-09-16 12:04:29,498 INFO 75288 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42931502ms at 2021-09-17 00:00:01.000
+2021-09-16 12:04:29,356 INFO 75291 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:04:29,356 INFO 75291 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:04:29,356 INFO 75291 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:04:55,053 INFO 75304 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:04:55,053 INFO 75304 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:04:55,053 INFO 75304 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:05:21,696 INFO 75318 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:05:21,696 INFO 75318 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:05:21,696 INFO 75318 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:05:47,518 INFO 75341 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:05:47,519 INFO 75341 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:05:47,519 INFO 75341 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:06:20,304 INFO 75372 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:06:20,304 INFO 75372 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:06:20,304 INFO 75372 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:08:45,525 INFO 75391 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:08:45,525 INFO 75391 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:08:45,525 INFO 75391 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:09:24,708 INFO 75406 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:09:24,708 INFO 75406 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:09:24,708 INFO 75406 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:11:23,029 INFO 75439 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:11:23,029 INFO 75439 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:11:23,029 INFO 75439 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:12:51,656 INFO 75458 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:12:51,656 INFO 75458 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:12:51,656 INFO 75458 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:13:28,152 INFO 75477 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:13:28,152 INFO 75477 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:13:28,152 INFO 75477 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:14:02,190 INFO 75534 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 58557812ms at 2021-09-17 04:30:00.002
+2021-09-16 12:14:02,191 INFO 75534 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42357810ms at 2021-09-17 00:00:00.001
+2021-09-16 12:14:02,191 INFO 75534 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42358809ms at 2021-09-17 00:00:01.000
+2021-09-16 12:14:02,047 INFO 75535 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:14:02,047 INFO 75535 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:14:02,047 INFO 75535 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:20:57,592 INFO 75582 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:20:57,592 INFO 75582 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:20:57,592 INFO 75582 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:21:22,272 INFO 75616 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 58117729ms at 2021-09-17 04:30:00.001
+2021-09-16 12:21:22,273 INFO 75616 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41917727ms at 2021-09-17 00:00:00.000
+2021-09-16 12:21:22,273 INFO 75616 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41918727ms at 2021-09-17 00:00:01.000
+2021-09-16 12:21:22,164 INFO 75619 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:21:22,164 INFO 75619 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:21:22,164 INFO 75619 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:23:44,131 INFO 75653 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57975871ms at 2021-09-17 04:30:00.002
+2021-09-16 12:23:44,132 INFO 75653 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41775868ms at 2021-09-17 00:00:00.000
+2021-09-16 12:23:44,132 INFO 75653 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41776868ms at 2021-09-17 00:00:01.000
+2021-09-16 12:23:43,997 INFO 75657 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:23:43,997 INFO 75657 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:23:43,997 INFO 75657 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:24:36,338 INFO 75701 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57923665ms at 2021-09-17 04:30:00.003
+2021-09-16 12:24:36,338 INFO 75701 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41723662ms at 2021-09-17 00:00:00.000
+2021-09-16 12:24:36,338 INFO 75701 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41724662ms at 2021-09-17 00:00:01.000
+2021-09-16 12:24:36,201 INFO 75704 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:24:36,201 INFO 75704 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:24:36,201 INFO 75704 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:31:08,099 INFO 75761 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:31:08,099 INFO 75761 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:31:08,099 INFO 75761 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:37:16,758 INFO 75810 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57163245ms at 2021-09-17 04:30:00.003
+2021-09-16 12:37:16,758 INFO 75810 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 40963242ms at 2021-09-17 00:00:00.000
+2021-09-16 12:37:16,758 INFO 75810 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 40964242ms at 2021-09-17 00:00:01.000
+2021-09-16 12:37:16,599 INFO 75812 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:37:16,599 INFO 75812 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:37:16,599 INFO 75812 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:40:08,460 INFO 75838 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:40:08,460 INFO 75838 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:40:08,460 INFO 75838 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:40:22,623 INFO 75862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:40:22,623 INFO 75862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:40:22,623 INFO 75862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:40:56,791 INFO 75872 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:40:56,791 INFO 75872 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:40:56,791 INFO 75872 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:41:19,209 INFO 75885 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:41:19,209 INFO 75885 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:41:19,209 INFO 75885 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 12:41:34,206 INFO 75900 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 12:41:34,206 INFO 75900 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 12:41:34,206 INFO 75900 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:22:08,954 INFO 76056 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54471048ms at 2021-09-17 04:30:00.002
+2021-09-16 13:22:08,955 INFO 76056 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38271045ms at 2021-09-17 00:00:00.000
+2021-09-16 13:22:08,955 INFO 76056 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38272045ms at 2021-09-17 00:00:01.000
+2021-09-16 13:22:08,836 INFO 76058 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:22:08,836 INFO 76058 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:22:08,836 INFO 76058 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:23:07,113 INFO 76069 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:23:07,113 INFO 76069 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:23:07,113 INFO 76069 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:24:01,963 INFO 76092 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:24:01,963 INFO 76092 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:24:01,963 INFO 76092 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:24:25,486 INFO 76113 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:24:25,486 INFO 76113 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:24:25,486 INFO 76113 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:24:59,835 INFO 76126 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:24:59,835 INFO 76126 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:24:59,835 INFO 76126 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:25:00,622 INFO 76128 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:25:00,622 INFO 76128 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:25:00,622 INFO 76128 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:26:54,169 INFO 76146 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:26:54,169 INFO 76146 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:26:54,169 INFO 76146 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:29:38,704 INFO 76170 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:29:38,704 INFO 76170 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:29:38,704 INFO 76170 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:30:16,012 INFO 76192 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:30:16,012 INFO 76192 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:30:16,012 INFO 76192 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:30:35,499 INFO 76208 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:30:35,499 INFO 76208 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:30:35,499 INFO 76208 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 13:31:02,821 INFO 76228 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 13:31:02,821 INFO 76228 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 13:31:02,821 INFO 76228 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 14:17:33,530 INFO 76388 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 14:17:33,530 INFO 76388 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 14:17:33,530 INFO 76388 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 14:41:39,519 INFO 76675 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 14:41:39,519 INFO 76675 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 14:41:39,519 INFO 76675 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 17:51:23,285 INFO 77546 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38316717ms at 2021-09-17 04:30:00.002
+2021-09-16 17:51:23,285 INFO 77546 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22116715ms at 2021-09-17 00:00:00.000
+2021-09-16 17:51:23,285 INFO 77546 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22117715ms at 2021-09-17 00:00:01.000
+2021-09-16 17:51:23,172 INFO 77550 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 17:51:23,172 INFO 77550 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 17:51:23,172 INFO 77550 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 17:52:40,202 INFO 77571 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 17:52:40,202 INFO 77571 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 17:52:40,202 INFO 77571 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 17:53:29,972 INFO 77611 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38190031ms at 2021-09-17 04:30:00.003
+2021-09-16 17:53:29,972 INFO 77611 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21990028ms at 2021-09-17 00:00:00.000
+2021-09-16 17:53:29,972 INFO 77611 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21991028ms at 2021-09-17 00:00:01.000
+2021-09-16 17:53:29,849 INFO 77616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 17:53:29,849 INFO 77616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 17:53:29,849 INFO 77616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 17:54:47,856 INFO 77638 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38112146ms at 2021-09-17 04:30:00.002
+2021-09-16 17:54:47,856 INFO 77638 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21912144ms at 2021-09-17 00:00:00.000
+2021-09-16 17:54:47,856 INFO 77638 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21913144ms at 2021-09-17 00:00:01.000
+2021-09-16 17:54:47,719 INFO 77644 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 17:54:47,719 INFO 77644 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 17:54:47,719 INFO 77644 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 17:56:28,161 INFO 77687 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38011841ms at 2021-09-17 04:30:00.002
+2021-09-16 17:56:28,161 INFO 77687 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21811839ms at 2021-09-17 00:00:00.000
+2021-09-16 17:56:28,162 INFO 77687 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21812839ms at 2021-09-17 00:00:01.001
+2021-09-16 17:56:28,027 INFO 77693 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 17:56:28,027 INFO 77693 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 17:56:28,027 INFO 77693 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 17:59:40,300 INFO 77748 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37819702ms at 2021-09-17 04:30:00.002
+2021-09-16 17:59:40,301 INFO 77748 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21619700ms at 2021-09-17 00:00:00.001
+2021-09-16 17:59:40,301 INFO 77748 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21620699ms at 2021-09-17 00:00:01.000
+2021-09-16 17:59:40,166 INFO 77752 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 17:59:40,166 INFO 77752 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 17:59:40,166 INFO 77752 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 18:04:06,114 INFO 77797 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37553888ms at 2021-09-17 04:30:00.002
+2021-09-16 18:04:06,114 INFO 77797 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21353886ms at 2021-09-17 00:00:00.000
+2021-09-16 18:04:06,114 INFO 77797 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21354886ms at 2021-09-17 00:00:01.000
+2021-09-16 18:04:05,981 INFO 77801 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 18:04:05,981 INFO 77801 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 18:04:05,981 INFO 77801 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 18:05:14,602 INFO 77845 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37485400ms at 2021-09-17 04:30:00.002
+2021-09-16 18:05:14,602 INFO 77845 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21285398ms at 2021-09-17 00:00:00.000
+2021-09-16 18:05:14,603 INFO 77845 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21286398ms at 2021-09-17 00:00:01.001
+2021-09-16 18:05:14,477 INFO 77849 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 18:05:14,477 INFO 77849 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 18:05:14,477 INFO 77849 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 22:15:24,068 INFO 78374 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22475934ms at 2021-09-17 04:30:00.002
+2021-09-16 22:15:24,068 INFO 78374 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6275932ms at 2021-09-17 00:00:00.000
+2021-09-16 22:15:24,068 INFO 78374 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6276932ms at 2021-09-17 00:00:01.000
+2021-09-16 22:15:23,859 INFO 78383 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 22:15:23,859 INFO 78383 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 22:15:23,859 INFO 78383 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 22:39:58,773 INFO 78647 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21001229ms at 2021-09-17 04:30:00.002
+2021-09-16 22:39:58,773 INFO 78647 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4801227ms at 2021-09-17 00:00:00.000
+2021-09-16 22:39:58,773 INFO 78647 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4802227ms at 2021-09-17 00:00:01.000
+2021-09-16 22:39:58,649 INFO 78652 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 22:39:58,649 INFO 78652 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 22:39:58,649 INFO 78652 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-16 22:44:07,427 INFO 78688 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-16 22:44:07,427 INFO 78688 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-16 22:44:07,427 INFO 78688 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:28:42,340 INFO 1229 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:28:42,340 INFO 1229 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:28:42,340 INFO 1229 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:28:42,519 INFO 1226 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68477483ms at 2021-09-18 04:30:00.002
+2021-09-17 09:28:42,519 INFO 1226 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52277481ms at 2021-09-18 00:00:00.000
+2021-09-17 09:28:42,519 INFO 1226 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52278481ms at 2021-09-18 00:00:01.000
+2021-09-17 09:31:55,734 INFO 1255 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:31:55,734 INFO 1255 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:31:55,734 INFO 1255 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:34:10,946 INFO 1272 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:34:10,946 INFO 1272 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:34:10,946 INFO 1272 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:37:41,272 INFO 1290 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:37:41,272 INFO 1290 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:37:41,272 INFO 1290 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:39:20,288 INFO 1302 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:39:20,288 INFO 1302 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:39:20,288 INFO 1302 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:39:27,143 INFO 1315 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:39:27,143 INFO 1315 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:39:27,143 INFO 1315 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:40:12,550 INFO 1330 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:40:12,550 INFO 1330 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:40:12,550 INFO 1330 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:40:24,566 INFO 1344 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:40:24,566 INFO 1344 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:40:24,566 INFO 1344 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:41:59,354 INFO 1370 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:41:59,354 INFO 1370 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:41:59,354 INFO 1370 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:42:10,442 INFO 1383 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:42:10,442 INFO 1383 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:42:10,442 INFO 1383 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:45:05,019 INFO 1431 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:45:05,019 INFO 1431 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:45:05,019 INFO 1431 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:46:15,352 INFO 1457 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:46:15,352 INFO 1457 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:46:15,352 INFO 1457 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 09:46:25,567 INFO 1470 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 09:46:25,567 INFO 1470 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 09:46:25,567 INFO 1470 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:00:11,279 INFO 1664 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66588723ms at 2021-09-18 04:30:00.002
+2021-09-17 10:00:11,279 INFO 1664 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50388721ms at 2021-09-18 00:00:00.000
+2021-09-17 10:00:11,279 INFO 1664 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50389721ms at 2021-09-18 00:00:01.000
+2021-09-17 10:00:11,167 INFO 1676 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:00:11,167 INFO 1676 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:00:11,167 INFO 1676 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:01:04,899 INFO 1690 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:01:04,899 INFO 1690 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:01:04,899 INFO 1690 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:08:31,953 INFO 1720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:08:31,953 INFO 1720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:08:31,953 INFO 1720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:17:11,706 INFO 1877 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 65568296ms at 2021-09-18 04:30:00.002
+2021-09-17 10:17:11,706 INFO 1877 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 49368294ms at 2021-09-18 00:00:00.000
+2021-09-17 10:17:11,707 INFO 1877 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 49369294ms at 2021-09-18 00:00:01.000
+2021-09-17 10:17:11,596 INFO 1878 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:17:11,596 INFO 1878 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:17:11,596 INFO 1878 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:25:23,975 INFO 1908 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:25:23,975 INFO 1908 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:25:23,975 INFO 1908 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:33:29,248 INFO 1939 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:33:29,248 INFO 1939 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:33:29,248 INFO 1939 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:34:01,318 INFO 1952 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:34:01,318 INFO 1952 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:34:01,318 INFO 1952 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:35:05,402 INFO 1960 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:35:05,402 INFO 1960 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:35:05,402 INFO 1960 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:36:13,360 INFO 1975 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:36:13,360 INFO 1975 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:36:13,360 INFO 1975 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:38:11,489 INFO 1989 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:38:11,489 INFO 1989 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:38:11,489 INFO 1989 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:38:31,259 INFO 2003 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:38:31,259 INFO 2003 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:38:31,259 INFO 2003 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 10:56:37,354 INFO 2255 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63202649ms at 2021-09-18 04:30:00.002
+2021-09-17 10:56:37,354 INFO 2255 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47002646ms at 2021-09-18 00:00:00.000
+2021-09-17 10:56:37,354 INFO 2255 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47003646ms at 2021-09-18 00:00:01.000
+2021-09-17 10:56:37,218 INFO 2260 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 10:56:37,218 INFO 2260 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 10:56:37,218 INFO 2260 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:09:34,707 INFO 2304 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:09:34,707 INFO 2304 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:09:34,707 INFO 2304 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:15:32,306 INFO 2348 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:15:32,306 INFO 2348 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:15:32,306 INFO 2348 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:20:50,949 INFO 2435 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61749054ms at 2021-09-18 04:30:00.002
+2021-09-17 11:20:50,949 INFO 2435 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45549051ms at 2021-09-18 00:00:00.000
+2021-09-17 11:20:50,949 INFO 2435 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45550051ms at 2021-09-18 00:00:01.000
+2021-09-17 11:20:50,751 INFO 2440 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:20:50,751 INFO 2440 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:20:50,751 INFO 2440 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:23:58,675 INFO 2470 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:23:58,675 INFO 2470 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:23:58,676 INFO 2470 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:31:14,681 INFO 2491 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:31:14,681 INFO 2491 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:31:14,681 INFO 2491 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:32:41,466 INFO 2509 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:32:41,466 INFO 2509 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:32:41,466 INFO 2509 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:34:28,939 INFO 2520 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:34:28,939 INFO 2520 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:34:28,939 INFO 2520 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:34:45,279 INFO 2533 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:34:45,279 INFO 2533 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:34:45,279 INFO 2533 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:35:23,311 INFO 2550 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:35:23,311 INFO 2550 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:35:23,311 INFO 2550 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:37:02,234 INFO 2563 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:37:02,234 INFO 2563 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:37:02,234 INFO 2563 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:37:08,243 INFO 2575 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:37:08,243 INFO 2575 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:37:08,243 INFO 2575 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:37:23,247 INFO 2586 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:37:23,247 INFO 2586 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:37:23,247 INFO 2586 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:37:38,299 INFO 2595 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:37:38,299 INFO 2595 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:37:38,299 INFO 2595 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:40:10,992 INFO 2608 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:40:10,992 INFO 2608 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:40:10,992 INFO 2608 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:46:33,344 INFO 2732 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60206658ms at 2021-09-18 04:30:00.002
+2021-09-17 11:46:33,345 INFO 2732 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44006655ms at 2021-09-18 00:00:00.000
+2021-09-17 11:46:33,345 INFO 2732 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44007655ms at 2021-09-18 00:00:01.000
+2021-09-17 11:46:33,225 INFO 2733 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:46:33,225 INFO 2733 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:46:33,225 INFO 2733 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 11:53:05,008 INFO 2767 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 11:53:05,008 INFO 2767 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 11:53:05,008 INFO 2767 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:10:49,599 INFO 2790 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:10:49,599 INFO 2790 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:10:49,599 INFO 2790 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:11:28,454 INFO 2805 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:11:28,454 INFO 2805 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:11:28,454 INFO 2805 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:12:31,109 INFO 2821 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:12:31,109 INFO 2821 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:12:31,109 INFO 2821 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:15:25,476 INFO 2846 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:15:25,476 INFO 2846 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:15:25,476 INFO 2846 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:16:44,115 INFO 2867 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:16:44,115 INFO 2867 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:16:44,115 INFO 2867 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:21:06,073 INFO 2893 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:21:06,073 INFO 2893 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:21:06,073 INFO 2893 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:21:38,191 INFO 2909 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:21:38,191 INFO 2909 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:21:38,191 INFO 2909 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:23:11,364 INFO 2919 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:23:11,364 INFO 2919 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:23:11,364 INFO 2919 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:25:47,512 INFO 2933 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:25:47,512 INFO 2933 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:25:47,512 INFO 2933 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:26:41,958 INFO 2944 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:26:41,958 INFO 2944 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:26:41,958 INFO 2944 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:26:54,626 INFO 2958 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:26:54,626 INFO 2958 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:26:54,626 INFO 2958 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:27:27,113 INFO 2966 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:27:27,114 INFO 2966 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:27:27,114 INFO 2966 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:28:02,245 INFO 2975 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:28:02,245 INFO 2975 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:28:02,245 INFO 2975 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:28:12,733 INFO 2986 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:28:12,733 INFO 2986 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:28:12,733 INFO 2986 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-17 12:28:22,595 INFO 2995 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-17 12:28:22,595 INFO 2995 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-17 12:28:22,595 INFO 2995 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:49:38,891 INFO 4180 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:49:38,891 INFO 4180 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:49:38,891 INFO 4180 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:49:39,104 INFO 4170 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42020898ms at 2021-09-21 04:30:00.002
+2021-09-20 16:49:39,105 INFO 4170 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25820896ms at 2021-09-21 00:00:00.000
+2021-09-20 16:49:39,105 INFO 4170 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25821895ms at 2021-09-21 00:00:01.000
+2021-09-20 16:53:55,388 INFO 4209 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:53:55,388 INFO 4209 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:53:55,388 INFO 4209 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:54:01,406 INFO 4224 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:54:01,406 INFO 4224 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:54:01,406 INFO 4224 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:54:06,897 INFO 4233 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:54:06,897 INFO 4233 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:54:06,897 INFO 4233 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:57:06,947 INFO 4253 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:57:06,947 INFO 4253 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:57:06,947 INFO 4253 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:58:37,761 INFO 4295 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41482241ms at 2021-09-21 04:30:00.002
+2021-09-20 16:58:37,761 INFO 4295 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25282239ms at 2021-09-21 00:00:00.000
+2021-09-20 16:58:37,762 INFO 4295 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25283239ms at 2021-09-21 00:00:01.001
+2021-09-20 16:58:37,645 INFO 4297 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:58:37,645 INFO 4297 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:58:37,645 INFO 4297 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:59:11,852 INFO 4313 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:59:11,852 INFO 4313 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:59:11,852 INFO 4313 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 16:59:17,052 INFO 4320 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 16:59:17,052 INFO 4320 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 16:59:17,052 INFO 4320 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:04:34,743 INFO 4343 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:04:34,743 INFO 4343 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:04:34,743 INFO 4343 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:04:52,283 INFO 4357 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:04:52,283 INFO 4357 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:04:52,283 INFO 4357 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:05:32,056 INFO 4409 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41067946ms at 2021-09-21 04:30:00.002
+2021-09-20 17:05:32,056 INFO 4409 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24867944ms at 2021-09-21 00:00:00.000
+2021-09-20 17:05:32,056 INFO 4409 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24868944ms at 2021-09-21 00:00:01.000
+2021-09-20 17:05:31,941 INFO 4411 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:05:31,941 INFO 4411 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:05:31,941 INFO 4411 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:06:13,501 INFO 4432 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:06:13,501 INFO 4432 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:06:13,501 INFO 4432 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:06:41,170 INFO 4446 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:06:41,170 INFO 4446 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:06:41,170 INFO 4446 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:06:58,824 INFO 4454 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:06:58,824 INFO 4454 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:06:58,824 INFO 4454 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:08:47,712 INFO 4469 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:08:47,712 INFO 4469 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:08:47,712 INFO 4469 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:08:48,469 INFO 4472 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:08:48,469 INFO 4472 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:08:48,469 INFO 4472 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:11:15,056 INFO 4498 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:11:15,056 INFO 4498 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:11:15,056 INFO 4498 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:13:14,427 INFO 4547 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:13:14,427 INFO 4547 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:13:14,427 INFO 4547 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:13:35,989 INFO 4560 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:13:35,989 INFO 4560 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:13:35,989 INFO 4560 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:14:04,067 INFO 4570 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:14:04,067 INFO 4570 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:14:04,067 INFO 4570 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:14:17,143 INFO 4581 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:14:17,143 INFO 4581 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:14:17,143 INFO 4581 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:15:43,985 INFO 4593 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:15:43,985 INFO 4593 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:15:43,985 INFO 4593 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:16:37,225 INFO 4616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:16:37,225 INFO 4616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:16:37,225 INFO 4616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:16:50,066 INFO 4633 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:16:50,066 INFO 4633 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:16:50,066 INFO 4633 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:19:01,451 INFO 4650 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:19:01,451 INFO 4650 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:19:01,451 INFO 4650 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:19:31,057 INFO 4662 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:19:31,057 INFO 4662 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:19:31,057 INFO 4662 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:21:50,937 INFO 4677 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:21:50,937 INFO 4677 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:21:50,938 INFO 4677 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:23:16,134 INFO 4692 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:23:16,134 INFO 4692 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:23:16,134 INFO 4692 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:23:40,073 INFO 4707 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:23:40,073 INFO 4707 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:23:40,073 INFO 4707 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:24:01,636 INFO 4718 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:24:01,636 INFO 4718 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:24:01,636 INFO 4718 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:24:15,605 INFO 4726 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:24:15,605 INFO 4726 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:24:15,605 INFO 4726 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:25:54,688 INFO 4751 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:25:54,688 INFO 4751 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:25:54,688 INFO 4751 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:29:26,687 INFO 4799 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:29:26,687 INFO 4799 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:29:26,687 INFO 4799 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:32:14,237 INFO 4824 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:32:14,237 INFO 4824 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:32:14,237 INFO 4824 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:33:21,003 INFO 4837 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:33:21,003 INFO 4837 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:33:21,003 INFO 4837 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:34:03,769 INFO 4851 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:34:03,769 INFO 4851 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:34:03,769 INFO 4851 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:36:57,136 INFO 4880 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:36:57,136 INFO 4880 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:36:57,136 INFO 4880 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:37:14,597 INFO 4892 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:37:14,597 INFO 4892 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:37:14,597 INFO 4892 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:38:20,869 INFO 4904 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:38:20,869 INFO 4904 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:38:20,870 INFO 4904 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:38:22,436 INFO 4916 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:38:22,436 INFO 4916 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:38:22,436 INFO 4916 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:43:36,677 INFO 4936 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:43:36,677 INFO 4936 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:43:36,677 INFO 4936 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:43:49,029 INFO 4948 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:43:49,029 INFO 4948 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:43:49,029 INFO 4948 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:44:12,807 INFO 4957 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:44:12,807 INFO 4957 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:44:12,807 INFO 4957 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:44:48,210 INFO 4966 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:44:48,210 INFO 4966 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:44:48,210 INFO 4966 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:44:50,263 INFO 4970 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:44:50,263 INFO 4970 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:44:50,263 INFO 4970 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:47:53,838 INFO 4984 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:47:53,838 INFO 4984 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:47:53,838 INFO 4984 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:48:07,795 INFO 4998 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:48:07,795 INFO 4998 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:48:07,795 INFO 4998 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:48:50,710 INFO 5008 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:48:50,710 INFO 5008 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:48:50,710 INFO 5008 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:49:44,240 INFO 5036 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:49:44,240 INFO 5036 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:49:44,240 INFO 5036 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:59:14,325 INFO 5072 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:59:14,325 INFO 5072 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:59:14,325 INFO 5072 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 17:59:31,430 INFO 5088 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 17:59:31,430 INFO 5088 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 17:59:31,430 INFO 5088 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:01:44,835 INFO 5106 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:01:44,835 INFO 5106 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:01:44,835 INFO 5106 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:02:17,355 INFO 5123 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:02:17,355 INFO 5123 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:02:17,355 INFO 5123 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:02:37,130 INFO 5136 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:02:37,130 INFO 5136 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:02:37,130 INFO 5136 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:04:12,799 INFO 5150 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:04:12,799 INFO 5150 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:04:12,799 INFO 5150 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:04:40,917 INFO 5163 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:04:40,917 INFO 5163 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:04:40,917 INFO 5163 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:05:45,519 INFO 5172 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:05:45,519 INFO 5172 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:05:45,519 INFO 5172 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:08:29,273 INFO 5188 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:08:29,273 INFO 5188 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:08:29,273 INFO 5188 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:11:01,048 INFO 5204 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:11:01,048 INFO 5204 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:11:01,048 INFO 5204 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:11:30,501 INFO 5217 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:11:30,501 INFO 5217 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:11:30,501 INFO 5217 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:11:32,520 INFO 5223 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:11:32,520 INFO 5223 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:11:32,520 INFO 5223 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:15:33,614 INFO 5236 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:15:33,614 INFO 5236 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:15:33,614 INFO 5236 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:17:51,562 INFO 5251 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:17:51,562 INFO 5251 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:17:51,562 INFO 5251 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:19:03,179 INFO 5268 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:19:03,179 INFO 5268 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:19:03,179 INFO 5268 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:19:28,968 INFO 5282 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:19:28,968 INFO 5282 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:19:28,968 INFO 5282 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:20:47,810 INFO 5297 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:20:47,810 INFO 5297 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:20:47,810 INFO 5297 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:21:01,874 INFO 5311 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:21:01,874 INFO 5311 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:21:01,874 INFO 5311 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:21:25,352 INFO 5319 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:21:25,352 INFO 5319 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:21:25,352 INFO 5319 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 18:25:33,977 INFO 5332 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 18:25:33,977 INFO 5332 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 18:25:33,977 INFO 5332 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:13:38,616 INFO 5394 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:13:38,616 INFO 5394 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:13:38,616 INFO 5394 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:16:06,433 INFO 5448 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33233569ms at 2021-09-21 04:30:00.002
+2021-09-20 19:16:06,433 INFO 5448 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 17033567ms at 2021-09-21 00:00:00.000
+2021-09-20 19:16:06,433 INFO 5448 [Timer] /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17034567ms at 2021-09-21 00:00:01.000
+2021-09-20 19:16:06,315 INFO 5459 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:16:06,315 INFO 5459 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:16:06,315 INFO 5459 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:17:12,098 INFO 5484 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:17:12,098 INFO 5484 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:17:12,098 INFO 5484 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:17:26,746 INFO 5499 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:17:26,746 INFO 5499 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:17:26,746 INFO 5499 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:18:34,016 INFO 5511 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:18:34,016 INFO 5511 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:18:34,016 INFO 5511 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:19:00,182 INFO 5525 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:19:00,182 INFO 5525 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:19:00,182 INFO 5525 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:19:04,914 INFO 5529 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:19:04,914 INFO 5529 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:19:04,914 INFO 5529 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:19:14,385 INFO 5535 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:19:14,385 INFO 5535 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:19:14,385 INFO 5535 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:19:43,381 INFO 5552 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:19:43,381 INFO 5552 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:19:43,381 INFO 5552 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:21:14,868 INFO 5570 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:21:14,868 INFO 5570 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:21:14,868 INFO 5570 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:22:33,835 INFO 5589 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:22:33,835 INFO 5589 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:22:33,835 INFO 5589 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:22:52,613 INFO 5605 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:22:52,613 INFO 5605 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:22:52,613 INFO 5605 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:23:52,424 INFO 5616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:23:52,425 INFO 5616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:23:52,425 INFO 5616 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:23:53,237 INFO 5621 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:23:53,237 INFO 5621 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:23:53,237 INFO 5621 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:23:54,106 INFO 5632 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:23:54,106 INFO 5632 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:23:54,106 INFO 5632 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:25:28,633 INFO 5653 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:25:28,633 INFO 5653 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:25:28,633 INFO 5653 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:27:09,115 INFO 5671 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:27:09,115 INFO 5671 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:27:09,115 INFO 5671 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:27:47,805 INFO 5683 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:27:47,805 INFO 5683 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:27:47,805 INFO 5683 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:29:33,472 INFO 5695 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:29:33,472 INFO 5695 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:29:33,472 INFO 5695 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:29:52,330 INFO 5711 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:29:52,330 INFO 5711 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:29:52,330 INFO 5711 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:30:06,257 INFO 5720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:30:06,257 INFO 5720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:30:06,257 INFO 5720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:30:20,084 INFO 5729 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:30:20,084 INFO 5729 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:30:20,084 INFO 5729 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:30:28,973 INFO 5738 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:30:28,973 INFO 5738 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:30:28,973 INFO 5738 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-20 19:31:53,245 INFO 5747 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-20 19:31:53,245 INFO 5747 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-20 19:31:53,245 INFO 5747 [egg-schedule]: register schedule /Users/yuyifan/Desktop/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 11:34:53,168 INFO 1770 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60906834ms at 2021-10-06 04:30:00.002
+2021-10-05 11:34:53,169 INFO 1770 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44706832ms at 2021-10-06 00:00:00.001
+2021-10-05 11:34:53,169 INFO 1770 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44707831ms at 2021-10-06 00:00:01.000
+2021-10-05 11:34:53,054 INFO 1773 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 11:34:53,054 INFO 1773 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 11:34:53,054 INFO 1773 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 15:37:01,331 INFO 4285 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 15:37:01,331 INFO 4285 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 15:37:01,331 INFO 4285 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 15:37:01,572 INFO 4276 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46378431ms at 2021-10-06 04:30:00.003
+2021-10-05 15:37:01,572 INFO 4276 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 30178428ms at 2021-10-06 00:00:00.000
+2021-10-05 15:37:01,572 INFO 4276 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30179428ms at 2021-10-06 00:00:01.000
+2021-10-05 16:49:52,648 INFO 4862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 16:49:52,648 INFO 4862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 16:49:52,648 INFO 4862 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 16:50:23,994 INFO 4900 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41976009ms at 2021-10-06 04:30:00.003
+2021-10-05 16:50:23,994 INFO 4900 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25776006ms at 2021-10-06 00:00:00.000
+2021-10-05 16:50:23,994 INFO 4900 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25777006ms at 2021-10-06 00:00:01.000
+2021-10-05 16:50:23,842 INFO 4901 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 16:50:23,842 INFO 4901 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 16:50:23,842 INFO 4901 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 17:20:23,681 INFO 5283 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40176322ms at 2021-10-06 04:30:00.003
+2021-10-05 17:20:23,681 INFO 5283 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23976319ms at 2021-10-06 00:00:00.000
+2021-10-05 17:20:23,682 INFO 5283 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23977319ms at 2021-10-06 00:00:01.001
+2021-10-05 17:20:23,524 INFO 5287 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 17:20:23,524 INFO 5287 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 17:20:23,524 INFO 5287 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 17:21:05,270 INFO 5300 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 17:21:05,270 INFO 5300 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 17:21:05,270 INFO 5300 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 17:21:34,355 INFO 5344 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40105647ms at 2021-10-06 04:30:00.002
+2021-10-05 17:21:34,355 INFO 5344 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23905645ms at 2021-10-06 00:00:00.000
+2021-10-05 17:21:34,355 INFO 5344 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23906645ms at 2021-10-06 00:00:01.000
+2021-10-05 17:21:34,236 INFO 5345 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 17:21:34,236 INFO 5345 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 17:21:34,236 INFO 5345 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 21:20:04,144 INFO 6624 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-05 21:20:04,144 INFO 6624 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-05 21:20:04,144 INFO 6624 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-05 21:20:04,389 INFO 6623 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 25795613ms at 2021-10-06 04:30:00.002
+2021-10-05 21:20:04,389 INFO 6623 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 9595611ms at 2021-10-06 00:00:00.000
+2021-10-05 21:20:04,390 INFO 6623 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9596611ms at 2021-10-06 00:00:01.001
+2021-10-06 17:12:42,718 INFO 2150 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-06 17:12:42,718 INFO 2150 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-06 17:12:42,718 INFO 2150 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-06 17:13:46,332 INFO 2208 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-06 17:13:46,332 INFO 2208 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-06 17:13:46,332 INFO 2208 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-06 17:13:46,557 INFO 2204 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40573445ms at 2021-10-07 04:30:00.002
+2021-10-06 17:13:46,557 INFO 2204 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24373443ms at 2021-10-07 00:00:00.000
+2021-10-06 17:13:46,558 INFO 2204 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24374443ms at 2021-10-07 00:00:01.001
+2021-10-07 15:32:59,214 INFO 1705 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 15:32:59,214 INFO 1705 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 15:32:59,214 INFO 1705 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 15:32:59,431 INFO 1693 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46620571ms at 2021-10-08 04:30:00.002
+2021-10-07 15:32:59,431 INFO 1693 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 30420569ms at 2021-10-08 00:00:00.000
+2021-10-07 15:32:59,431 INFO 1693 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30421569ms at 2021-10-08 00:00:01.000
+2021-10-07 17:10:52,966 INFO 2610 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:10:52,966 INFO 2610 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:10:52,966 INFO 2610 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:11:30,419 INFO 2623 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:11:30,420 INFO 2623 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:11:30,420 INFO 2623 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:18:39,574 INFO 2670 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:18:39,574 INFO 2670 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:18:39,574 INFO 2670 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:20:44,047 INFO 2681 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:20:44,047 INFO 2681 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:20:44,047 INFO 2681 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:22:50,794 INFO 2704 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:22:50,794 INFO 2704 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:22:50,794 INFO 2704 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:23:05,190 INFO 2720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:23:05,190 INFO 2720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:23:05,190 INFO 2720 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:23:11,693 INFO 2729 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:23:11,693 INFO 2729 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:23:11,693 INFO 2729 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:28:02,110 INFO 2768 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:28:02,110 INFO 2768 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:28:02,110 INFO 2768 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:29:05,654 INFO 2795 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:29:05,654 INFO 2795 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:29:05,654 INFO 2795 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:30:36,782 INFO 2817 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:30:36,782 INFO 2817 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:30:36,782 INFO 2817 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 17:31:03,852 INFO 2832 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 17:31:03,852 INFO 2832 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 17:31:03,852 INFO 2832 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 20:27:25,169 INFO 3957 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28954833ms at 2021-10-08 04:30:00.002
+2021-10-07 20:27:25,169 INFO 3957 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12754831ms at 2021-10-08 00:00:00.000
+2021-10-07 20:27:25,169 INFO 3957 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12755831ms at 2021-10-08 00:00:01.000
+2021-10-07 20:27:24,984 INFO 3963 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 20:27:24,984 INFO 3963 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 20:27:24,984 INFO 3963 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 21:23:05,472 INFO 4346 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 21:23:05,472 INFO 4346 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 21:23:05,472 INFO 4346 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 21:23:05,701 INFO 4341 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 25614301ms at 2021-10-08 04:30:00.002
+2021-10-07 21:23:05,702 INFO 4341 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 9414299ms at 2021-10-08 00:00:00.001
+2021-10-07 21:23:05,702 INFO 4341 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9415298ms at 2021-10-08 00:00:01.000
+2021-10-07 21:38:39,056 INFO 4749 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-07 21:38:39,056 INFO 4749 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-07 21:38:39,056 INFO 4749 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-07 21:38:39,252 INFO 4744 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 24680750ms at 2021-10-08 04:30:00.002
+2021-10-07 21:38:39,252 INFO 4744 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 8480748ms at 2021-10-08 00:00:00.000
+2021-10-07 21:38:39,252 INFO 4744 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 8481748ms at 2021-10-08 00:00:01.000
+2021-10-08 13:57:52,648 INFO 821 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 52327354ms at 2021-10-09 04:30:00.002
+2021-10-08 13:57:52,649 INFO 821 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36127352ms at 2021-10-09 00:00:00.001
+2021-10-08 13:57:52,649 INFO 821 [Timer] /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36128351ms at 2021-10-09 00:00:01.000
+2021-10-08 13:57:52,432 INFO 823 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-08 13:57:52,432 INFO 823 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-08 13:57:52,432 INFO 823 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-08 17:11:32,567 INFO 3467 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-08 17:11:32,567 INFO 3467 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-08 17:11:32,567 INFO 3467 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-08 17:11:55,255 INFO 3475 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-08 17:11:55,255 INFO 3475 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-08 17:11:55,255 INFO 3475 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-08 17:11:57,367 INFO 3483 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-08 17:11:57,367 INFO 3483 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-08 17:11:57,367 INFO 3483 [egg-schedule]: register schedule /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

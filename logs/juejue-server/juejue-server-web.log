@@ -1,0 +1,167 @@
+2021-09-16 10:28:22,933 ERROR 73951 [-/::1/-/6ms GET /user] nodejs.ReferenceError: name is not defined
+    at HomeController.user (/Users/yuyifan/Desktop/juejue-server/app/controller/home.js:16:7)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+pid: 73951
+hostname: YiFanMacBookPro
+
+2021-09-16 11:26:32,412 ERROR 74731 [-/::1/-/7ms GET /] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at Function.byteLength (buffer.js:727:11)
+    at respond (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 74731
+hostname: YiFanMacBookPro
+
+2021-09-16 11:28:26,767 ERROR 74777 [-/::1/-/6ms GET /] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at Function.byteLength (buffer.js:727:11)
+    at respond (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 74777
+hostname: YiFanMacBookPro
+
+2021-09-16 11:28:37,252 ERROR 74807 [-/::1/-/6ms GET /] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at Function.byteLength (buffer.js:727:11)
+    at respond (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 74807
+hostname: YiFanMacBookPro
+
+2021-09-16 11:31:40,695 ERROR 74895 [-/::1/-/5ms GET /] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at Function.byteLength (buffer.js:727:11)
+    at respond (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 74895
+hostname: YiFanMacBookPro
+
+2021-09-16 11:34:37,922 ERROR 74929 [-/127.0.0.1/-/0ms GET /] nodejs.ENOTFOUNDError: getaddrinfo ENOTFOUND localhost_3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26)
+    --------------------
+    at Protocol._enqueue (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errno: -3008
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "localhost_3306"
+fatal: true
+name: "ENOTFOUNDError"
+pid: 74929
+hostname: YiFanMacBookPro
+
+2021-09-16 11:34:48,279 ERROR 74961 [-/127.0.0.1/-/0ms GET /] nodejs.ENOTFOUNDError: getaddrinfo ENOTFOUND localhost_3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26)
+    --------------------
+    at Protocol._enqueue (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/yuyifan/Desktop/juejue-server/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/yuyifan/Desktop/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errno: -3008
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "localhost_3306"
+fatal: true
+name: "ENOTFOUNDError"
+pid: 74961
+hostname: YiFanMacBookPro
+
+2021-09-16 12:02:33,358 ERROR 75177 [-/::1/-/5ms GET /] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at Function.byteLength (buffer.js:727:11)
+    at respond (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/Users/yuyifan/Desktop/juejue-server/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 75177
+hostname: YiFanMacBookPro
+
+2021-09-16 12:16:04,920 WARN 75535 [-/::1/-/13ms POST /add_user] nodejs.SyntaxError: Unexpected token n in JSON at position 3, check bodyParser config
+    at JSON.parse (<anonymous>)
+    at parse (/Users/yuyifan/Desktop/juejue-server/node_modules/co-body/lib/json.js:57:17)
+    at AsyncFunction.module.exports [as json] (/Users/yuyifan/Desktop/juejue-server/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async parseBody (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-bodyparser/index.js:100:14)
+    at async bodyParser (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-bodyparser/index.js:85:19)
+    at async /Users/yuyifan/Desktop/juejue-server/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/yuyifan/Desktop/juejue-server/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/yuyifan/Desktop/juejue-server/node_modules/egg/app/middleware/meta.js:17:5)
+status: 400
+body: "{\n\tname: 'Tom'\n}"
+pid: 75535
+hostname: YiFanMacBookPro
+
+2021-09-16 12:16:31,338 WARN 75535 [-/::1/-/1ms POST /add_user] nodejs.SyntaxError: Unexpected token n in JSON at position 3, check bodyParser config
+    at JSON.parse (<anonymous>)
+    at parse (/Users/yuyifan/Desktop/juejue-server/node_modules/co-body/lib/json.js:57:17)
+    at AsyncFunction.module.exports [as json] (/Users/yuyifan/Desktop/juejue-server/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async parseBody (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-bodyparser/index.js:100:14)
+    at async bodyParser (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-bodyparser/index.js:85:19)
+    at async /Users/yuyifan/Desktop/juejue-server/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/yuyifan/Desktop/juejue-server/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/yuyifan/Desktop/juejue-server/node_modules/egg/app/middleware/meta.js:17:5)
+status: 400
+body: "{\n\tname: 'Tom'\n}"
+pid: 75535
+hostname: YiFanMacBookPro
+
+2021-09-17 11:19:59,115 ERROR 2348 [-/::1/-/4ms POST /api/upload] nodejs.TypeError: Cannot read property 'filepath' of undefined
+    at UploadController.upload (/Users/yuyifan/Desktop/juejue-server/app/controller/upload.js:20:36)
+    at Object.callFn (/Users/yuyifan/Desktop/juejue-server/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yuyifan/Desktop/juejue-server/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yuyifan/Desktop/juejue-server/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yuyifan/Desktop/juejue-server/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuyifan/Desktop/juejue-server/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yuyifan/Desktop/juejue-server/node_modules/koa-compose/index.js:44:32)
+    at /Users/yuyifan/Desktop/juejue-server/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2348
+hostname: YiFanMacBookPro
+
+2021-10-06 17:12:42,949 ERROR 2150 [-/127.0.0.1/-/0ms GET /] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)
+    --------------------
+    at Protocol._enqueue (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errno: -61
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 3306
+fatal: true
+name: "ECONNREFUSEDError"
+pid: 2150
+hostname: YiFanMacBookPro
+

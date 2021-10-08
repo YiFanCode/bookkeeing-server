@@ -1,0 +1,339 @@
+{
+  "keys": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+  "middleware": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+      "ignoreJSON": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+      "type": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "protocolWhiteList": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "credentials": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "allowMethods": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js"
+  },
+  "view": {
+    "mapping": {
+      ".html": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js"
+    },
+    "root": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view/config/config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+      "port": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+      "user": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+      "password": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+      "database": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js"
+    },
+    "app": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "agent": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "default": {
+      "database": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "jwt": {
+    "secret": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-jwt/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+    "autoFields": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "uploadDir": "/Users/yuyifan/Desktop/Node+React/juejue-server/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-schedule/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-static/config/config.default.js"
+  },
+  "ejs": {
+    "root": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view-ejs/config/config.default.js",
+    "cache": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view-ejs/config/config.local.js",
+    "debug": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view-ejs/config/config.default.js",
+    "compileDebug": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view-ejs/config/config.default.js",
+    "delimiter": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view-ejs/config/config.default.js",
+    "strict": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg-view-ejs/config/config.default.js"
+  },
+  "env": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "name": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "version": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "description": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "private": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-view-ejs": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "mkdirp": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "moment": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "stop": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "dev": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "debug": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "test": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "cov": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "lint": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "ci": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "autod": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "url": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "license": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "strict": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "depth": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "env": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "level": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "logging": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "port": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/yuyifan/Desktop/Node+React/juejue-server/node_modules/egg/config/config.default.js"
+}
